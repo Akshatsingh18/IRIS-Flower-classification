@@ -1,6 +1,7 @@
 # IRIS-Flower-classification
 IRIS Flower classification
 
+The iris flowers dataset contains numeric attributes and it is perfect to learn about suprevised ML algorithms ,mainly how to load and handle data
 
 # video
 
